@@ -1,17 +1,17 @@
 # <h2>Username Validate With Lightbox Style</h2>
 
-Developed By Sathishkumar Arumugham
+<Strong>Developed By</Strong> Sathishkumar Arumugham
 
 Demo Purpose.
 
-Company : [Tecfreaks](http://www.tecfreaks.com)
+<Strong>Company :</Strong> [Tecfreaks](http://www.tecfreaks.com)
 
 
-Description:
+<Strong>Description:</Strong>
 
 User can retrieve the Username with validate using Lightbox window.
 
-Supported Installation 
+<Strong>Supported Installation </Strong>
 
 > npm
 
@@ -32,7 +32,7 @@ Supported Installation
 > react-maskedinput
 
 
-More Contact:
+<Strong>More Contact:</Strong>
 
 Personal E-Mail: [sathish_arumugham@outlook.com](mailto: sathish_arumugham@outlook.com)
 
