@@ -2,10 +2,7 @@
 
 <Strong>Developed By</Strong> Sathishkumar Arumugham
 
-Demo Purpose.
-
-<Strong>Company :</Strong> [Tecfreaks](http://www.tecfreaks.com)
-
+Demo Purpose. 
 
 <Strong>Description:</Strong>
 
@@ -34,6 +31,4 @@ User can retrieve the Username with validate using Lightbox window.
 
 <Strong>More Contact:</Strong>
 
-Personal E-Mail: [sathish_arumugham@outlook.com](mailto: sathish_arumugham@outlook.com)
-
-Office E-mail  : [sathish@tecfreaks.com](mailto: sathish@tecfreaks.com)
+Personal E-Mail: [sathish_arumugham@outlook.com](mailto: sathish_arumugham@outlook.com) 
